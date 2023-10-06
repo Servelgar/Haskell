@@ -1,3 +1,6 @@
+-- Roman to arabic numerals conversion
+-- 1 to 500.000
+
 module Main where
 
 letters :: String 
